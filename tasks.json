@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "description": "Wash the dishes",
+    "isDone": false
+  },
+  {
+    "id": 2,
+    "description": "Study for calculus midterm",
+    "isDone": false
+  },
+  {
+    "id": 3,
+    "description": "Clean out the garage",
+    "isDone": false
+  }
+]
